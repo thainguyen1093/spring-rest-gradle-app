@@ -4,8 +4,8 @@ This project is a demo spring project that using to practice and include some te
 > 2020/05/10
 ### Architectural 
 * RESTful API
-### Technoligies using
-* Spring boot
+### Technologies using
+* Spring (boot, data jpa)
 ### Build tool
 * Gradle (6.4)
 ### Version control
